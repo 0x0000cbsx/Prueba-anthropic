@@ -1,0 +1,16 @@
+solicitud 1: $0.019047
+solicitud 2: $0.089745
+solicitud 3: $0.035184
+solicitud 4: $0.030105
+solicitud 5: $0.059298
+solicitud 6: $0.065166
+solicitud 7: $0.012195
+solicitud 8: $0.071823
+solicitud 9: $0.080823
+solicitud 10: $0.016488
+solicitud 11: $0.049737
+solicitud 12: $0.015252
+total: $0.544863
+sin_cache: $0.731979
+ahorro: $0.187116
+aciertos_de_cache: 7/12

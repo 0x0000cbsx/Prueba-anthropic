@@ -1,0 +1,24 @@
+texto: ¿listo? errores compila la
+stop_reason: end_turn
+input_tokens: 2609
+output_tokens: 371
+texto: gracias errores errores prueba ¡vamos! modelo responde claude compila responde
+stop_reason: max_tokens
+input_tokens: 3445
+output_tokens: 115
+texto: claude responde en ¡vamos! mañana café responde
+stop_reason: end_turn
+input_tokens: 1859
+output_tokens: 128
+texto: gracias ¿listo? café ¿listo? hola errores gracias Bogotá arepa café prueba calma gracias en despacio claude compila está despacio responde
+stop_reason: end_turn
+input_tokens: 1893
+output_tokens: 653
+texto: mañana tinto modelo el el arepa modelo servidor lista compila
+stop_reason: end_turn
+input_tokens: 2192
+output_tokens: 428
+texto: datos gracias errores código calma rápido tinto arepa con en el respuesta ¿listo? modelo Bogotá prueba
+stop_reason: end_turn
+input_tokens: 2619
+output_tokens: 506

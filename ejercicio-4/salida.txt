@@ -1,0 +1,25 @@
+ok
+ok
+ok
+ok
+429 retry-after=2
+ok
+ok
+ok
+ok
+429 retry-after=3
+429 retry-after=1
+ok
+ok
+429 retry-after=1
+ok
+ok
+429 retry-after=2
+ok
+429 retry-after=1
+ok
+ok
+ok
+ok
+ok
+429 retry-after=4

@@ -1,0 +1,10 @@
+{"stop_reason":"tool_use","content":[{"type":"text","text":"Un momento."},{"type":"tool_use","id":"toolu_01","name":"clima","input":{"ciudad":"Bogotá"}}]}
+{"stop_reason":"tool_use","content":[{"type":"text","text":"Déjame calcularlo."},{"type":"tool_use","id":"toolu_02","name":"calculadora","input":{"operacion":"multiplicar","a":38,"b":329}},{"type":"tool_use","id":"toolu_03","name":"calculadora","input":{"operacion":"restar","a":764,"b":9}}]}
+{"stop_reason":"tool_use","content":[{"type":"tool_use","id":"toolu_04","name":"correo","input":{"texto":"hola"}}]}
+{"stop_reason":"tool_use","content":[{"type":"tool_use","id":"toolu_05","name":"clima","input":{"ciudad":"Tunja"}}]}
+{"stop_reason":"tool_use","content":[{"type":"text","text":"Déjame calcularlo."},{"type":"tool_use","id":"toolu_06","name":"traductor","input":{"texto":"hola"}}]}
+{"stop_reason":"tool_use","content":[{"type":"tool_use","id":"toolu_07","name":"calculadora","input":{"operacion":"dividir","a":823,"b":5}}]}
+{"stop_reason":"tool_use","content":[{"type":"text","text":"Déjame calcularlo."},{"type":"tool_use","id":"toolu_08","name":"calculadora","input":{"operacion":"multiplicar","a":342,"b":750}},{"type":"tool_use","id":"toolu_09","name":"calculadora","input":{"operacion":"sumar","a":744,"b":457}},{"type":"tool_use","id":"toolu_10","name":"calculadora","input":{"operacion":"multiplicar","a":730,"b":853}}]}
+{"stop_reason":"tool_use","content":[{"type":"text","text":"Déjame calcularlo."},{"type":"tool_use","id":"toolu_11","name":"buscar_web","input":{"texto":"hola"}},{"type":"tool_use","id":"toolu_12","name":"calculadora","input":{"operacion":"sumar","a":530,"b":138}}]}
+{"stop_reason":"tool_use","content":[{"type":"tool_use","id":"toolu_13","name":"calculadora","input":{"operacion":"dividir","a":55,"b":97}}]}
+{"stop_reason":"end_turn","content":[{"type":"text","text":"Listo, revisé 13 resultados."}]}

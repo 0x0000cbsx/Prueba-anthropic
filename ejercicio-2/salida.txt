@@ -1,0 +1,15 @@
+tool_result toolu_01 14 °C
+tool_result toolu_02 12502
+tool_result toolu_03 755
+tool_result toolu_04 error: herramienta desconocida: correo
+tool_result toolu_05 error: ciudad desconocida: Tunja
+tool_result toolu_06 error: herramienta desconocida: traductor
+tool_result toolu_07 164
+tool_result toolu_08 256500
+tool_result toolu_09 1201
+tool_result toolu_10 622690
+tool_result toolu_11 error: herramienta desconocida: buscar_web
+tool_result toolu_12 668
+tool_result toolu_13 0
+final: Listo, revisé 13 resultados.
+resumen: 13 llamadas, 4 errores
